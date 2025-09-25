@@ -8,7 +8,8 @@ from app.client.qris import show_qris_payment_v2
 from app.type_dict import PaymentItem
 
 def load_hot_combined():
-    with open('data/hot_combined.json', 'r', encoding='utf-8') as f:
+    # Pastikan path file sesuai file gabungan Anda
+    with open('data/hot_packages.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
 def show_hot_menu_combined():
@@ -136,3 +137,7 @@ def show_hot_menu_combined():
             print("Input tidak valid. Silahkan coba lagi.")
             pause()
             continue
+
+# Alias untuk kompatibilitas lama
+def show_hot_menu():
+    return show_hot_menu_combined()
