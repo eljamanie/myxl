@@ -1,1 +1,100 @@
-{"pg-hot":[{"family_name":"Paket Data XL","variant_name":"XL Combo Xtra","option_name":"Xtra Combo 10GB","family_code":"XL-COMBO","variant_code":"XC10GB","order":1,"is_enterprise":false},{"family_name":"Paket Data AXIS","variant_name":"Axis Bronet","option_name":"Bronet 8GB","family_code":"AXIS-BRONET","variant_code":"BR8GB","order":2,"is_enterprise":false}],"pg-hot2":[{"name":"Paket Internet Murah","price":35000,"detail":"Kuota 10GB aktif 30 hari.","packages":[{"family_code":"XL-COMBO","variant_name":"XL Combo Xtra","order":1,"is_enterprise":false}]},{"name":"Paket AXIS Super Hemat","price":25000,"detail":"Kuota 8GB aktif 30 hari.","packages":[{"family_code":"AXIS-BRONET","variant_name":"Axis Bronet","order":2,"is_enterprise":false}]}]}
+[
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+        "is_enterprise": true,
+        "variant_name": "BIZ Prepaid",
+        "option_name": "BIZ Starter",
+        "order": 1
+    },
+    {
+        "family_name": "Unlimited Turbo",
+        "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
+        "is_enterprise": false,
+        "variant_name": "For Xtra Combo",
+        "option_name": "TikTok",
+        "order": 6
+    },
+    {
+        "family_name": "Swadaya Xlalu Untukmu",
+        "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+        "is_enterprise": true,
+        "variant_name": "Swadaya Xlalu Untukmu",
+        "option_name": "Swadaya XLalu Untukmu 11GB",
+        "order": 4
+    },
+    {
+        "family_name": "BIZ Prepaid",
+        "family_code": "ae2707e6-2996-45f8-944a-8a391e956f28",
+        "is_enterprise": true,
+        "variant_name": "BIZ E-Commerce",
+        "option_name": "BIZ Starter",
+        "order": 5
+    },
+        {
+        "family_name": "Newcomer Promo",
+        "family_code": "6bc5a34d-7901-4bf9-8629-5bd7de28c89f",
+        "is_enterprise": false,
+        "variant_name": "Xtra Combo",
+        "option_name": "1GB + 1GB",
+        "order": 1
+    },
+    {
+        "family_name": "Xtra Combo Flex - Latest",
+        "family_code": "3fc46cbb-6092-426f-84a0-117e586ec5f0",
+        "is_enterprise": false,
+        "variant_name": "\u200e ",
+        "option_name": "FLEX M - 6GB",
+        "order": 4
+    },
+    {
+        "family_name": "Video & Music",
+        "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
+        "is_enterprise": false,
+        "variant_name": "Vidio",
+        "option_name": "Vidio",
+        "order": 1
+    },
+    {
+        "family_name": "Video & Music",
+        "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
+        "is_enterprise": false,
+        "variant_name": "Vision+",
+        "option_name": "Vision+",
+        "order": 1
+    },
+    {
+        "family_name": "BIZ Manufacture",
+        "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+        "is_enterprise": true,
+        "variant_name": "BIZ Manufacture",
+        "option_name": "BIZ Lite",
+        "order": 1
+    }
+]
+
+[
+    {
+        "name": "Masa Aktif 1 bulan",
+        "price": "Rp1000",
+        "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
+                "is_enterprise": false,
+                "variant_name": "Akrab",
+                "option_name": "19GB for 2 Members",
+                "order": 8
+            },
+            {
+                "family_name": "Work & School",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "variant_name": "Work & School",
+                "option_name": "Education 2GB",
+                "order": 6
+            }
+        ]
+    }
+]
