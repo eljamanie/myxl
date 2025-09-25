@@ -9,7 +9,7 @@ from app.service.auth import AuthInstance
 from app.menus.bookmark import show_bookmark_menu
 from app.menus.account import show_account_menu
 from app.menus.package import fetch_my_packages, get_packages_by_family, show_package_details
-from app.menus.hot import show_hot_menu, show_hot_menu2
+from app.menus.hot import show_hot_menu_combined
 from app.service.sentry import enter_sentry_mode
 
 def show_main_menu(number, balance, balance_expired_at):
